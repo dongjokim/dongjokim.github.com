@@ -1,16 +1,16 @@
 ## Research
 
-My work has been closely related to the experiments at the Brookhaven Heavy-ion facility(RHIC) and the Large Hardron Collider (LHC, with the different domain of energy compared with [http://www.bnl.gov/rhic RHIC]) at [http://www.cern.ch CERN]. My main interest was to study the physics of strongly interacting matter at high temperatures and extreme energy densities, where the formation of a new phase of matter, the [http://en.wikipedia.org/wiki/Quark-gluon_plasma Quark Gluon Plasma (QGP)], is expected. 
+My work has been closely related to the experiments at the Brookhaven Heavy-ion facility(RHIC) and the Large Hardron Collider (LHC, with the different domain of energy compared with <a href="http://www.bnl.gov/rhic">RHIC</a>) at [http://www.cern.ch CERN]. My main interest was to study the physics of strongly interacting matter at high temperatures and extreme energy densities, where the formation of a new phase of matter, the [http://en.wikipedia.org/wiki/Quark-gluon_plasma Quark Gluon Plasma (QGP)], is expected. 
 
 ## Curriculum Vitae
-<a href="https://trac.cc.jyu.fi/projects/alice/attachment/wiki/DongJo/djkim_cv.pdf">Here's my recent curriculum vitae.<\a>
+<a href="https://trac.cc.jyu.fi/projects/alice/attachment/wiki/DongJo/djkim_cv.pdf">Here's my recent curriculum vitae<\a>
 
 
 ## Presentations Presentations
 
 ## Publications
 <a href="http://inspirehep.net/search?ln=en&ln=en&p=find+a+D.J+Kim&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0 inspirehep.net">inspirehep</a>
-<a href="http://www.phenix.bnl.gov/WWW/publish/djkim/DJ/papers/publications.htm"> ~2005</a>
+<a href="http://www.phenix.bnl.gov/WWW/publish/djkim/DJ/papers/publications.htm">~2005</a>
 
 ## Students
  - [https://twiki.cern.ch/twiki/bin/view/ALICE/JyflThesisFromOurGroup PhD/Ms/Trainee]
