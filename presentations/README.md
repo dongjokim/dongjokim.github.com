@@ -2,10 +2,21 @@ DongJo/Presentations – ALICE Group, Department of Physics, University of Jyvä
 
 ### 2019
 
-*   “Overview of heavy ion physics at ALICE"
-    *   [​XXV Cracow EPIPHANY Conference on Advances in Heavy Ion Physics](http://epiphany.ifj.edu.pl/current/),[​pdf](https://indico.cern.ch/event/718723/contributions/3194895/attachments/1775741/2887081/alice_overview_djkim_Epiphany2019.pdf)
+*   “Overview of heavy ion physics at ALICE""
+    *   [​XXV Cracow EPIPHANY Conference on Advances in Heavy Ion Physics, 8-11 Jan 2019, Cracow, Poland](http://epiphany.ifj.edu.pl/current/),[​pdf](https://indico.cern.ch/event/718723/contributions/3194895/attachments/1775741/2887081/alice_overview_djkim_Epiphany2019.pdf)
+
+### 2018
+*   “Flow Analysis group overview""
+    *   [​CF workshop: Opportunity and Challenge with 2018 data, 24-25 September 2018 CERN](https://indico.cern.ch/event/757727/),[​pdf](https://indico.cern.ch/event/757727/contributions/3145728/attachments/1720892/2778246/flowpag_overview_20180924.pdf)
+
+*   “Probing Soft-Hard Interactions in Heavy Ion Collisions""
+    *   [​Hard Probes 2018: International Conference on Hard & Electromagnetic Probes of High-Energy Nuclear Collisions, 30 Sep to 5 Oct 2018](https://indico.cern.ch/event/634426/),[​pdf](https://indico.cern.ch/event/634426/contributions/3090390/)
+
 
 ### 2017
+
+*   “ALICE Experimental Overview""
+    *   [​Particle Physics Day 2017, 20 Oct 2017, Helsinki, Finland](https://indico.cern.ch/event/667627/),[​pdf](https://indico.cern.ch/event/667627/contributions/2730768/attachments/1544306/2423268/alice_ppd2017.pdf)
 
 *   “Probing Soft-Hard Interactions in Heavy Ion Collisions-"Return of the Mach Cone""
     *   [​International Workshop on High-pT Physics in the RHIC/LHC era 2-5 Oct. 2017 Bergen, Norway](https://indico.cern.ch/event/615153/),[​pdf](https://indico.cern.ch/event/615153/contributions/2721665/attachments/1535580/2405397/DJKim_hpt2017.pdf)
@@ -25,6 +36,10 @@ DongJo/Presentations – ALICE Group, Department of Physics, University of Jyvä
 
 *   “Systematic studies of correlations between different order flow harmonics in Pb--Pb collisions at $\\sqrt{s\_{NN}} = 2.76$ TeV"
     *   [​XI Workshop on Particle Correlations and Femtoscopy (Warsaw University od Technology, Warsaw, Poland, 2015-11-03 - 2015-11-07)](http://wpcf2015.fizyka.pw.edu.pl/),[​pdf](http://indico.cern.ch/event/387606/contributions/918933/attachments/1180999/1710799/WPCF2015_djkim.pdf)
+
+*   “Measurements of Correlations between different order flow harmonics in Pb--Pb collisions with the ALICE experiment at the LHC"
+    *   [​Particle Physics Day 2015)](https://indico.cern.ch/event/279875/),[​pdf](https://indico.cern.ch/event/279875/contributions/632756/attachments/1179227/1706667/PPD2015_dj.pdf)
+
 *   "Jet fragmentation study with particle correlation from the ALICE experiment at LHC"
     *   [​Nucleus-Nucleus 2015 (Catania, Italy, 2015-06-21 - 2015-06-26)](https://agenda.infn.it/conferenceDisplay.py?confId=5235), [​pdf](https://agenda.infn.it/getFile.py/access?contribId=231&sessionId=9&resId=1&materialId=slides&confId=5235,)
 
