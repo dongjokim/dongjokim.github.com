@@ -1,5 +1,10 @@
 DongJo/Presentations – ALICE Group, Department of Physics, University of Jyväskylä in Finland
 
+### 2019
+
+*   “Overview of heavy ion physics at ALICE"
+    *   [​XXV Cracow EPIPHANY Conference on Advances in Heavy Ion Physics](http://epiphany.ifj.edu.pl/current/),[​pdf](https://indico.cern.ch/event/718723/contributions/3194895/attachments/1775741/2887081/alice_overview_djkim_Epiphany2019.pdf)
+
 ### 2017
 
 *   “Probing Soft-Hard Interactions in Heavy Ion Collisions-"Return of the Mach Cone""
@@ -11,24 +16,24 @@ DongJo/Presentations – ALICE Group, Department of Physics, University of Jyvä
 *   “Transverse momentum and pseudorapidity dependence of correlations between different order flow harmonics in Pb--Pb collisions at $\\sqrt{s\_{NN}} = 2.76}$ TeV"
     *   [​Quark Matter 2017, Feb 6-11](http://qm2017.phy.uic.edu/),[​pdf](https://indico.cern.ch/event/433345/contributions/2358110/)
 
-### 2016 [¶](#a2016 "Link to this section")
+### 2016 
 
 *   “News on collectivity in Pb-Pb collisions from the ALICE experiment at the LHC"
     *   [​46th International Symposium on Multiparticle Dynamics (ISMD 2016)](http://nuclear.korea.ac.kr/ismd2016/),[​pdf](http://nuclear.korea.ac.kr/indico/getFile.py/access?contribId=44&sessionId=1&resId=0&materialId=slides&confId=166)
 
-### 2015 [¶](#a2015 "Link to this section")
+### 2015 
 
 *   “Systematic studies of correlations between different order flow harmonics in Pb--Pb collisions at $\\sqrt{s\_{NN}} = 2.76$ TeV"
     *   [​XI Workshop on Particle Correlations and Femtoscopy (Warsaw University od Technology, Warsaw, Poland, 2015-11-03 - 2015-11-07)](http://wpcf2015.fizyka.pw.edu.pl/),[​pdf](http://indico.cern.ch/event/387606/contributions/918933/attachments/1180999/1710799/WPCF2015_djkim.pdf)
 *   "Jet fragmentation study with particle correlation from the ALICE experiment at LHC"
     *   [​Nucleus-Nucleus 2015 (Catania, Italy, 2015-06-21 - 2015-06-26)](https://agenda.infn.it/conferenceDisplay.py?confId=5235), [​pdf](https://agenda.infn.it/getFile.py/access?contribId=231&sessionId=9&resId=1&materialId=slides&confId=5235,)
 
-### 2012 [¶](#a2012 "Link to this section")
+### 2012 
 
 *   “Jet fragmentation study with particle correlation from the ALICE experiment at LHC"
     *   [​PLHC 2012 - Physics at the LHC 2012 (Vancouver, 2012-06-04 - 2012-06-09)](http://plhc2012.triumf.ca/), [​pdf](https://indico.cern.ch/event/164272/contributions/1420605/attachments/196708/276118/PLHC2012_DJKIM_final.pdf)
 
-### 2009 [¶](#a2009 "Link to this section")
+### 2009 
 
 *   “Jet properties from dihadron correlation in PHENIX“
     *   [​4th international workshop High-pT physics at LHC 09, 4-7.2 2009](http://cquark.fjfi.cvut.cz/%7Ehpt09), [​ppt](https://trac.cc.jyu.fi/projects/alice/attachment/wiki/DongJo/attachments/Prague2009_DJKIM.ppt)
@@ -39,12 +44,12 @@ DongJo/Presentations – ALICE Group, Department of Physics, University of Jyvä
 *   "Jet properties from dihadron Correlation at RHIC and LHC"
     *   LHC/CMS Korea workshop in October 7th 2009, [​ppt](http://www.phenix.bnl.gov/WWW/publish/djkim/talks/General/CMSKor2009_DJKIM.ppt)
 
-### 2008 [¶](#a2008 "Link to this section")
+### 2008 
 
 *   “Analysis of the Direct photon associated spectra from RHIC to LHC“
     *   [​3rd INT. WORKSHOP ON HIGH-PT PHYSICS AT LHC](http://www.kfki.hu/%7Etokaj08/) TOKAJ, HUNGARY March, 16-19, 2008 [​ppt](https://trac.cc.jyu.fi/projects/alice/attachment/wiki/DongJo/attachments/Tokaj2008_DJKIM.ppt)
 
-### 2007 [¶](#a2007 "Link to this section")
+### 2007 
 
 *   “Direct photons pizero and Jet correlation“
     *   ALICE week March 13-17 at CERN
@@ -64,7 +69,7 @@ DongJo/Presentations – ALICE Group, Department of Physics, University of Jyvä
 *   [​Heavy Ion Meeting 2007](http://him.phys.pusan.ac.kr/%7Ehim/) 19-20 Oct 2007
     *   Direct Photon and High pT pi0 correlation at RHIC and LHC, [DongJo](https://trac.cc.jyu.fi/projects/alice/wiki/DongJo) Kim, ([​ppt](https://trac.cc.jyu.fi/projects/alice/attachment/wiki/DongJo/attachments/HIM2007_DJKIM.ppt),[​pdf](https://trac.cc.jyu.fi/projects/alice/attachment/wiki/DongJo/attachments/HIM2007_DJKIM.pdf))
 
-### ~ 2006 [¶](#a2006 "Link to this section")
+### ~ 2006 
 
 Public Presentations can be found at  
 *   [PHENIX talks(Browser)](http://www.phenix.bnl.gov/WWW/publish/djkim/talks/)
