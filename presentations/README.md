@@ -2,23 +2,23 @@ DongJo/Presentations – ALICE Group, Department of Physics, University of Jyvä
 
 ### 2019
 
-*   “Overview of heavy ion physics at ALICE""
+*   “Overview of heavy ion physics at ALICE"
     *   [​XXV Cracow EPIPHANY Conference on Advances in Heavy Ion Physics, 8-11 Jan 2019, Cracow, Poland](http://epiphany.ifj.edu.pl/current/),[​pdf](https://indico.cern.ch/event/718723/contributions/3194895/attachments/1775741/2887081/alice_overview_djkim_Epiphany2019.pdf)
 
 ### 2018
-*   “Flow Analysis group overview""
+*   “Flow Analysis group overview"
     *   [​CF workshop: Opportunity and Challenge with 2018 data, 24-25 September 2018 CERN](https://indico.cern.ch/event/757727/),[​pdf](https://indico.cern.ch/event/757727/contributions/3145728/attachments/1720892/2778246/flowpag_overview_20180924.pdf)
 
-*   “Probing Soft-Hard Interactions in Heavy Ion Collisions""
+*   “Probing Soft-Hard Interactions in Heavy Ion Collisions"
     *   [​Hard Probes 2018: International Conference on Hard & Electromagnetic Probes of High-Energy Nuclear Collisions, 30 Sep to 5 Oct 2018](https://indico.cern.ch/event/634426/),[​pdf](https://indico.cern.ch/event/634426/contributions/3090390/)
 
 
 ### 2017
 
-*   “ALICE Experimental Overview""
+*   “ALICE Experimental Overview"
     *   [​Particle Physics Day 2017, 20 Oct 2017, Helsinki, Finland](https://indico.cern.ch/event/667627/),[​pdf](https://indico.cern.ch/event/667627/contributions/2730768/attachments/1544306/2423268/alice_ppd2017.pdf)
 
-*   “Probing Soft-Hard Interactions in Heavy Ion Collisions-"Return of the Mach Cone""
+*   “Probing Soft-Hard Interactions in Heavy Ion Collisions-"Return of the Mach Cone"
     *   [​International Workshop on High-pT Physics in the RHIC/LHC era 2-5 Oct. 2017 Bergen, Norway](https://indico.cern.ch/event/615153/),[​pdf](https://indico.cern.ch/event/615153/contributions/2721665/attachments/1535580/2405397/DJKim_hpt2017.pdf)
 
 *   “Symmetric cumulants and nonlinear mode of higher order anisotropic flow measured with ALICE in Pb–Pb collisions"
