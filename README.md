@@ -3,7 +3,7 @@
 My work has been closely related to the experiments at the Brookhaven Heavy-ion facility(RHIC) and the Large Hardron Collider (LHC, with the different domain of energy compared with <a href="http://www.bnl.gov/rhic">RHIC</a>) at <a href="http://www.cern.ch">CERN</a>. My main interest was to study the physics of strongly interacting matter at high temperatures and extreme energy densities, where the formation of a new phase of matter, the <a href="http://en.wikipedia.org/wiki/Quark-gluon_plasma">Quark Gluon Plasma (QGP)</a>, is expected. 
 
 ## Curriculum Vitae
-<a href="https://trac.cc.jyu.fi/projects/alice/attachment/wiki/DongJo/djkim_cv.pdf">My recent curriculum vitae </a>
+<a href="documents/djkim_cv.pdf">My recent curriculum vitae </a>
 
 ## Presentations 
 - where I gave my presentations <a href="https://drive.google.com/open?id=1v7H3h0oxobY8pr-5-ZOZAL2b_Ec&usp=sharing">Travel</a>
