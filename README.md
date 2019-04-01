@@ -10,14 +10,18 @@ My work has been closely related to the experiments at the Brookhaven Heavy-ion 
 - <a href="presentations/">Presentation files</a>
 
 ## Publications
-<a href="http://inspirehep.net/search?ln=en&ln=en&p=find+a+D.J+Kim&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0 inspirehep.net">inspirehep</a>
-<a href="http://www.phenix.bnl.gov/WWW/publish/djkim/DJ/papers/publications.htm">~2005</a>
+- <a href="http://inspirehep.net/search?ln=en&ln=en&p=find+a+D.J+Kim&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0 inspirehep.net">inspirehep</a>
+- <a href="http://www.phenix.bnl.gov/WWW/publish/djkim/DJ/papers/publications.htm">~2005</a>
+- <a href="documents/publist.pdf">Full list of selected papers</a>
 
 ## Students
  - <a href="https://twiki.cern.ch/twiki/bin/view/ALICE/JyflThesisFromOurGroup">PhD/Ms/Trainee</a>
 
 ## Hot news and issues on my research
-  - <a href="http://www.particle.cz/conferences/wpcf2005/talks/panitkin.pdf">HBT results in 62GeV Au+Au, Cu+Cu from STAR<a/>
+  - <a href="https://cerncourier.com/alice-revitalised/">ALICE revitalised: Cern Courier Article</a>
+  - <a href="https://cerncourier.com/anisotropic-flow-in-xe-xe-collisions/">Anisotropic flow in Xe–Xe collisions</a>
+  - <a href="https://cerncourier.com/alice-explores-shear-viscosity-in-qcd-matter/">ALICE explores shear viscosity in QCD matter</a>
+  - <a href="https://cerncourier.com/alice-gets-with-the-flow/">ALICE gets with the flow: Cern Courier Article</a>
   - <a href="http://rhic.physics.wayne.edu/~bellwied/bigsky-talks/enokizono-wwnd07.ppt"> PHENIX HBT<a/>
   - <a href="http://www.esi-topics.com/nhp/nhp-january2008.html"> PHENIX ppg032 nhp hot paper in January 2008<a/>
   - <a href="http://www.newton.cam.ac.uk/webseminars/pg+ws/2007/sis/sisw01/"> Exploring QCD: Deconfinement, Extreme Environments & Holography<a/>, many talks related with ads/CFT, string and black holes
