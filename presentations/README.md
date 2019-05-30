@@ -5,6 +5,9 @@ DongJo/Presentations – ALICE Group, Department of Physics, University of Jyvä
 *   “Towards a deeper understanding of  heavy-ion collisions with flow harmonics in LHC"
     *   [​XIV Workshop on Particle Correlations and Femtoscopy, 3-7 June, 2019, Dubna, Russian Federation](http://theor.jinr.ru/~wpcf2019/),[​pdf]()
 
+*   “Towards a deeper understanding of  heavy-ion collisions with flow harmonics in LHC"
+    *   [​Heavy Ion Meeting 2019-05, 24 May, Seoul, Korea](http://him.phys.pusan.ac.kr),[​pdf]()
+
 *   “Overview of heavy ion physics at ALICE"
     *   [​XXV Cracow EPIPHANY Conference on Advances in Heavy Ion Physics, 8-11 Jan 2019, Cracow, Poland](http://epiphany.ifj.edu.pl/current/),[​pdf](https://indico.cern.ch/event/718723/contributions/3194895/attachments/1775741/2887081/alice_overview_djkim_Epiphany2019.pdf)
 
@@ -41,7 +44,7 @@ DongJo/Presentations – ALICE Group, Department of Physics, University of Jyvä
     *   [​XI Workshop on Particle Correlations and Femtoscopy (Warsaw University od Technology, Warsaw, Poland, 2015-11-03 - 2015-11-07)](http://wpcf2015.fizyka.pw.edu.pl/),[​pdf](http://indico.cern.ch/event/387606/contributions/918933/attachments/1180999/1710799/WPCF2015_djkim.pdf)
 
 *   “Measurements of Correlations between different order flow harmonics in Pb--Pb collisions with the ALICE experiment at the LHC"
-    *   [​Particle Physics Day 2015)](https://indico.cern.ch/event/279875/),[​pdf](https://indico.cern.ch/event/279875/contributions/632756/attachments/1179227/1706667/PPD2015_dj.pdf)
+    *   [​Particle Physics Day 2015](https://indico.cern.ch/event/279875/),[​pdf](https://indico.cern.ch/event/279875/contributions/632756/attachments/1179227/1706667/PPD2015_dj.pdf)
 
 *   "Jet fragmentation study with particle correlation from the ALICE experiment at LHC"
     *   [​Nucleus-Nucleus 2015 (Catania, Italy, 2015-06-21 - 2015-06-26)](https://agenda.infn.it/conferenceDisplay.py?confId=5235), [​pdf](https://agenda.infn.it/getFile.py/access?contribId=231&sessionId=9&resId=1&materialId=slides&confId=5235,)
