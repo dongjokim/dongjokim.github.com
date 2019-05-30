@@ -1,5 +1,3 @@
-DongJo/Presentations – ALICE Group, Department of Physics, University of Jyväskylä in Finland
-
 ### 2019
 
 *   “Towards a deeper understanding of  heavy-ion collisions with flow harmonics in LHC"
