@@ -2,6 +2,9 @@ DongJo/Presentations – ALICE Group, Department of Physics, University of Jyvä
 
 ### 2019
 
+*   “Towards a deeper understanding of  heavy-ion collisions with flow harmonics in LHC"
+    *   [​XIV Workshop on Particle Correlations and Femtoscopy, 3-7 June, 2019, Dubna, Russian Federation](http://theor.jinr.ru/~wpcf2019/),[​pdf]()
+
 *   “Overview of heavy ion physics at ALICE"
     *   [​XXV Cracow EPIPHANY Conference on Advances in Heavy Ion Physics, 8-11 Jan 2019, Cracow, Poland](http://epiphany.ifj.edu.pl/current/),[​pdf](https://indico.cern.ch/event/718723/contributions/3194895/attachments/1775741/2887081/alice_overview_djkim_Epiphany2019.pdf)
 
