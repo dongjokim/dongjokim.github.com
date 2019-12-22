@@ -1,16 +1,16 @@
 ### 2019
 
 *  “Linear and non-linear flow modes of charged and identified particles in Pb-Pb collisions with ALICE"
-    *   [​Quark Matter 2019 - the XXVIIIth International Conference on Ultra-relativistic Nucleus-Nucleus Collisions, 3-9 November, 2019, Wuhan, China](https://indico.cern.ch/event/792436/contributions/3535660/),[​pdf]()
+    *   [​Quark Matter 2019 - the XXVIIIth International Conference on Ultra-relativistic Nucleus-Nucleus Collisions, 3-9 November, 2019, Wuhan, China](https://indico.cern.ch/event/792436/),[​pdf](https://indico.cern.ch/event/792436/contributions/3535660/)
 
 *   “Flow harmonic power spectrum with ALICE at LHC"
-    *   [​Quark Matter 2019 - the XXVIIIth International Conference on Ultra-relativistic Nucleus-Nucleus Collisions, 3-9 November, 2019, Wuhan, China](https://indico.cern.ch/event/792436/contributions/3533877/),[​pdf]()
+    *   [​Quark Matter 2019 - the XXVIIIth International Conference on Ultra-relativistic Nucleus-Nucleus Collisions, 3-9 November, 2019, Wuhan, China](https://indico.cern.ch/event/792436/),[​pdf](https://indico.cern.ch/event/792436/contributions/3533877/)
 
 *   “1. Ridge in hard events in pp collisions 2. Jet parton shower in high multiplicity pPb collisions"
-    *   [​3rd International þing on QCD Challenges from pp to AA, 19-23 August 2019, Lund university, Sweden](https://indico.lucas.lu.se/event/1214/timetable/#20190819),[​pdf]()
+    *   [​3rd International þing on QCD Challenges from pp to AA, 19-23 August 2019, Lund university, Sweden](https://indico.lucas.lu.se/event/1214/),[​pdf](https://indico.lucas.lu.se/event/1214/timetable/#20190819)
 
 *   “Towards a deeper understanding of  heavy-ion collisions with flow harmonics in LHC"
-    *   [​XIV Workshop on Particle Correlations and Femtoscopy, 3-7 June, 2019, Dubna, Russian Federation](http://theor.jinr.ru/~wpcf2019/),[​pdf]()
+    *   [​XIV Workshop on Particle Correlations and Femtoscopy, 3-7 June, 2019, Dubna, Russian Federation](http://theor.jinr.ru/~wpcf2019/),[​pdf](http://theor.jinr.ru/~wpcf2019/files/talks/07/9.%20wpcf2019_djkim.pdf)
 
 *   “Towards a deeper understanding of  heavy-ion collisions with flow harmonics in LHC"
     *   [​Heavy Ion Meeting 2019-05, 24 May, Seoul, Korea](http://him.phys.pusan.ac.kr),[​pdf]()
