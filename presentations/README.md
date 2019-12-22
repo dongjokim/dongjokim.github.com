@@ -137,9 +137,9 @@ List of Talks
     ( 2005 [Heavy Ion Meeting , Korea](http://him.phys.pusan.ac.kr/) )  
     
 *   Open heavy flavor production from single muons in PHENIX at RHIC  
-    ([Hot Quark 2006](http://hq2006.bnl.gov/) Villasimius, Sardinia, Italy)
+    ([Hot Quark 2006](http://hq2006.bnl.gov/), Villasimius, Sardinia, Italy)
 *   Open heavy flavor production from single muons in PHENIX at RHIC  
-    ([Quark Matter 2006](http://www.sinap.ac.cn/qm2006/)Shanghai, China on November 14-20, 2006)
+    ([Quark Matter 2006](http://www.sinap.ac.cn/qm2006/), Shanghai, China on November 14-20, 2006)
 
 Internal Presentations  
 *   [PHENIX talks(Browser)](https://www.phenix.bnl.gov/WWW/p/draft/djkim/talks/)
