@@ -1,5 +1,14 @@
 ### 2019
 
+*  “Linear and non-linear flow modes of charged and identified particles in Pb-Pb collisions with ALICE"
+    *   [​Quark Matter 2019 - the XXVIIIth International Conference on Ultra-relativistic Nucleus-Nucleus Collisions, 3-9 November, 2019, Wuhan, China](https://indico.cern.ch/event/792436/contributions/3535660/),[​pdf]()
+
+*   “Flow harmonic power spectrum with ALICE at LHC"
+    *   [​Quark Matter 2019 - the XXVIIIth International Conference on Ultra-relativistic Nucleus-Nucleus Collisions, 3-9 November, 2019, Wuhan, China](https://indico.cern.ch/event/792436/contributions/3533877/),[​pdf]()
+
+*   “1. Ridge in hard events in pp collisions 2. Jet parton shower in high multiplicity pPb collisions"
+    *   [​3rd International þing on QCD Challenges from pp to AA, 19-23 August 2019, Lund university, Sweden](https://indico.lucas.lu.se/event/1214/timetable/#20190819),[​pdf]()
+
 *   “Towards a deeper understanding of  heavy-ion collisions with flow harmonics in LHC"
     *   [​XIV Workshop on Particle Correlations and Femtoscopy, 3-7 June, 2019, Dubna, Russian Federation](http://theor.jinr.ru/~wpcf2019/),[​pdf]()
 
