@@ -1,7 +1,7 @@
 ### 2020
 
 *  “The transport properties of the Quark-Gluon Plasma"
-    *   [​Heavy Ion Meeting (HIM) 2020-10, Relativistic heavy ion collisions: playgrounds for the QCD matter studies, 29-30 October, 2020, APCTP, Pohang and online
+    *   Heavy Ion Meeting (HIM) 2020-10, Relativistic heavy ion collisions: playgrounds for the QCD matter studies, 29-30 October, 2020, APCTP, Pohang and online
 
 *  “Determining the initial conditions and transport properties of quark-gluon plasma by flow measurements at the LHC"
     *   [​NUCLEUS-2020 - LXX International conference on Nuclear physics and elementary particle physics. Nuclear physics technologies, 11-17 October, 2020, Online, St. Petersburg, Russia](https://indico.cern.ch/event/839985/),[​pdf](https://indico.cern.ch/event/839985/contributions/3983599/)
