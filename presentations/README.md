@@ -1,5 +1,8 @@
 ### 2020
 
+*  “Highlights from the ALICE experiment"
+    *   [Particle Physics Day 2020, Thursday 5 Nov 2020](https://indico.cern.ch/event/968273/),[pdf](https://indico.cern.ch/event/968273/contributions/4075428/attachments/2136993/3599581/PPD2020_djkim.pdf)
+
 *  “The transport properties of the Quark-Gluon Plasma"
     *   Heavy Ion Meeting (HIM) 2020-10, Relativistic heavy ion collisions: playgrounds for the QCD matter studies, 29-30 October, 2020, APCTP, Pohang and online
 
