@@ -1,7 +1,7 @@
 ### 2021
 
 *  “Success and challenges of flow harmonic analysis in LHC heavy-ion physics"
-    *   [Physics Day 2021, Thursday 25 March 2021](https://www.jyu.fi/en/congress/physicsdays2021),[pdf](pdf/FP2021.pdf), J. Parkkila, A. Önnerstad
+    *   [Physics Day 2021, Thursday 25 March 2021](https://www.jyu.fi/en/congress/physicsdays2021),[pdf](pdf/FP2021.pdf), J. Parkkila, A. Önnerstad
 
 
 ### 2020
@@ -71,7 +71,7 @@
     *   [​Particle Physics Day 2015](https://indico.cern.ch/event/279875/),[​pdf](https://indico.cern.ch/event/279875/contributions/632756/attachments/1179227/1706667/PPD2015_dj.pdf)
 
 *   "Jet fragmentation study with particle correlation from the ALICE experiment at LHC"
-    *   [​Nucleus-Nucleus 2015 (Catania, Italy, 2015-06-21 - 2015-06-26)](https://agenda.infn.it/conferenceDisplay.py?confId=5235), [​pdf](https://agenda.infn.it/getFile.py/access?contribId=231&sessionId=9&resId=1&materialId=slides&confId=5235,)
+    *   [​Nucleus-Nucleus 2015 (Catania, Italy, 2015-06-21 - 2015-06-26)](https://agenda.infn.it/conferenceDisplay.py?confId=5235), [​pdf](https://agenda.infn.it/event/5235/contributions/57431/attachments/41123/48870/NN2015_DJKIM_final.pdf,)
 
 ### 2012 
 
