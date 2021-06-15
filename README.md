@@ -18,7 +18,8 @@ My work has been closely related to the experiments at the Brookhaven Heavy-ion 
  - <a href="https://twiki.cern.ch/twiki/bin/view/ALICE/JyflThesisFromOurGroup">PhD/Ms/Trainee</a>
 
 ## Hot news and issues on my research
-  - <a href="https://cerncourier.com/a/going-with-the-flow/">Going with the flow</a>
+  - <a href="https://cerncourier.com/a/alice-tracks-new-territory/">ALICE tracks new territory(7 June 2021)</a>
+  - <a href="https://cerncourier.com/a/going-with-the-flow/">Going with the flow(28 April 2021)</a>
   - <a href="https://cerncourier.com/a/alice-probes-extreme-electromagnetic-fields/">ALICE probes extreme electromagnetic fields</a>
   - <a href="https://cerncourier.com/alice-revitalised/">ALICE revitalised: Cern Courier Article</a>
   - <a href="https://cerncourier.com/anisotropic-flow-in-xe-xe-collisions/">Anisotropic flow in Xe–Xe collisions</a>
