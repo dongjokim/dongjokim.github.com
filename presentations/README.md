@@ -1,4 +1,7 @@
 ### 2021
+
+*  “New constraints for QCD matter from improved Bayesian parameter estimation in heavy-ion collisions at LHC"
+   * [ALICE Week][https://indico.cern.ch/event/1091049/],[pdf](https://indico.cern.ch/event/1091049/contributions/4613535/attachments/2355671/4020068/ALICE-Week-Jasper.pdf)
 *  “Highlights from the ALICE experiment"
     *   [Particle Physics Day 2021, 16th Nov 2021](https://indico.cern.ch/event/1089650/),[pdf](https://indico.cern.ch/event/1089650/contributions/4590935/attachments/2346383/4003168/PPD2021_alice_djkim.pdf)
 *  “Success and challenges of flow harmonic analysis in LHC heavy-ion physics"
