@@ -1,3 +1,7 @@
+### 2022
+*  "New constraints of QCD matter from improved Bayesian parameter estimation with the latest LHC data"
+   *   Strangeness Quark Matter 2022, Jun 15 2022, pdf, invited talk, Dong Jo Kim
+
 ### 2021
 
 *  “New constraints for QCD matter from improved Bayesian parameter estimation in heavy-ion collisions at LHC"
