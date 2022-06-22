@@ -1,6 +1,12 @@
 ### 2022
+*  "Success and challenges of flow harmonic analysis in LHC collisions from large to small systems"
+   * 15th Quark Confinement and the Hadron Spectrum, August 1st - 6th, 2022, invited talk, Dong Jo Kim
+*  "New Constraints of QCD Matter from Bayesian Parameter Estimation with LHC Data"
+   * 15th Workshop on Particle Correlations and Femtoscopy, 18-22 July 2022, Dong Jo Kim, J. Parkkila, A. Önnerstad
+*  "New constraints for QCD matter from improved Bayesian parameter estimation in heavy-ion collisions at LHC”
+   *  Heavy ion meeting July 2022, July 1-2 2022, pdf, invited talk, Dong Jo Kim 
 *  "New constraints of QCD matter from improved Bayesian parameter estimation with the latest LHC data"
-   *   Strangeness Quark Matter 2022, Jun 15 2022, pdf, invited talk, Dong Jo Kim
+   *   Strangeness Quark Matter 2022, Jun 15 2022, pdf, invited talk, Dong Jo Kim, J. Parkkila, A. Önnerstad
 
 ### 2021
 
