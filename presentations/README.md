@@ -68,7 +68,8 @@
 *   “Symmetric cumulants and nonlinear mode of higher order anisotropic flow measured with ALICE in Pb–Pb collisions"
     *   [​4th International Conference on the Initial Stages in High-Energy Nuclear Collisions, 18-22 Sept. 2017 Krak ́ow, Poland](http://www.ujk.edu.pl/is2017/),[​pdf](https://indico.cern.ch/event/578078/contributions/2659768/)
 
-*   “Transverse momentum and pseudorapidity dependence of correlations between different order flow harmonics in Pb--Pb collisions at $\\sqrt{s\_{NN}} = 2.76}$ TeV"
+*   “Transverse momentum and pseudorapidity dependence of correlations between different order flow harmonics in Pb--Pb collisions at 
+2.76 TeV"
     *   [​Quark Matter 2017, Feb 6-11](http://qm2017.phy.uic.edu/),[​pdf](https://indico.cern.ch/event/433345/contributions/2358110/)
 
 ### 2016 
