@@ -15,7 +15,7 @@ My work has been closely related to the experiments at the Brookhaven Heavy-ion 
 ## Publications
 - <a href="http://inspirehep.net/search?ln=en&ln=en&p=find+a+D.J+Kim&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0 inspirehep.net">inspirehep</a>
 - <a href="http://www.phenix.bnl.gov/WWW/publish/djkim/DJ/papers/publications.htm">~2005</a>
-- <a href="documents/publist.pdf">Full list of selected papers</a>
+- <a href="documents/PublicationList_djkim_20221009.pdf">selected and full publication list as Oct. 9th 2022</a>
 
 ## Students
  - <a href="https://twiki.cern.ch/twiki/bin/view/ALICE/JyflThesisFromOurGroup">PhD/Ms/Trainee</a>
