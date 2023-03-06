@@ -7,7 +7,7 @@ Padova, Italy, [pdf](https://indico.cern.ch/event/1135616/contributions/5259000/
    
 ### 2022
 *  "Collective flow measurements from the large to small systems in LHC"
-   * [CoE in Quark Matter, Scientific Advisory Board Meeting](https://www.jyu.fi/science/en/physics/research/highenergy/coe/sab2022_schedule_public-v1.pdf),8 Dec 2022, Jyväskylä, Finland,
+   * [CoE in Quark Matter, Scientific Advisory Board Meeting](https://www.jyu.fi/science/en/physics/research/highenergy/coe/sab2022_schedule_public-v1.pdf),8 Dec 2022, Jyväskylä, Finland, Dong Jo Kim
 *  "Success and challenges of flow harmonic analysis in LHC collisions from large to small systems"
    * [15th Quark Confinement and the Hadron Spectrum](https://indico.uis.no/event/2/), August 1st - 6th 2022,Stavanger Norway, [talk](https://indico.uis.no/event/2/contributions/459/), Dong Jo Kim
 *  "New Constraints of QCD Matter from Bayesian Parameter Estimation with LHC Data"
@@ -20,50 +20,50 @@ Padova, Italy, [pdf](https://indico.cern.ch/event/1135616/contributions/5259000/
 ### 2021
 
 *  “New constraints for QCD matter from improved Bayesian parameter estimation in heavy-ion collisions at LHC"
-   *   [ALICE Week, Nov 29- Dec 3](https://indico.cern.ch/event/1091049/),[pdf](https://indico.cern.ch/event/1091049/contributions/4613535/attachments/2355671/4020068/ALICE-Week-Jasper.pdf),  J. Parkkila, A. Önnerstad
+   *   [ALICE Week, Nov 29- Dec 3](https://indico.cern.ch/event/1091049/),[pdf](https://indico.cern.ch/event/1091049/contributions/4613535/attachments/2355671/4020068/ALICE-Week-Jasper.pdf),  Dong Jo Kim, J. Parkkila, A. Önnerstad
 *  “Highlights from the ALICE experiment"
-    *   [Particle Physics Day 2021, 16th Nov 2021](https://indico.cern.ch/event/1089650/),[pdf](https://indico.cern.ch/event/1089650/contributions/4590935/attachments/2346383/4003168/PPD2021_alice_djkim.pdf)
+    *   [Particle Physics Day 2021, 16th Nov 2021](https://indico.cern.ch/event/1089650/),[pdf](https://indico.cern.ch/event/1089650/contributions/4590935/attachments/2346383/4003168/PPD2021_alice_djkim.pdf), Dong Jo Kim
 *  “Success and challenges of flow harmonic analysis in LHC heavy-ion physics"
-    *   [Physics Day 2021, Thursday 25 March 2021](https://www.jyu.fi/en/congress/physicsdays2021),[pdf](pdf/FP2021.pdf), J. Parkkila, A. Önnerstad
+    *   [Physics Day 2021, Thursday 25 March 2021](https://www.jyu.fi/en/congress/physicsdays2021),[pdf](pdf/FP2021.pdf), Dong Jo Kim, J. Parkkila, A. Önnerstad
 
 
 ### 2020
 *  “Highlights from the ALICE experiment"
-    *   [Particle Physics Day 2020, Thursday 5 Nov 2020](https://indico.cern.ch/event/968273/),[pdf](https://indico.cern.ch/event/968273/contributions/4075428/attachments/2136993/3599581/PPD2020_djkim.pdf)
+    *   [Particle Physics Day 2020, Thursday 5 Nov 2020](https://indico.cern.ch/event/968273/),[pdf](https://indico.cern.ch/event/968273/contributions/4075428/attachments/2136993/3599581/PPD2020_djkim.pdf), Dong Jo Kim
 
 *  “The transport properties of the Quark-Gluon Plasma"
-    *   Heavy Ion Meeting (HIM) 2020-10, Relativistic heavy ion collisions: playgrounds for the QCD matter studies, 29-30 October, 2020, APCTP, Pohang and online
+    *   Heavy Ion Meeting (HIM) 2020-10, Relativistic heavy ion collisions: playgrounds for the QCD matter studies, 29-30 October, 2020, APCTP, Pohang and online, Dong Jo Kim
 
 *  “Determining the initial conditions and transport properties of quark-gluon plasma by flow measurements at the LHC"
-    *   [​NUCLEUS-2020 - LXX International conference on Nuclear physics and elementary particle physics. Nuclear physics technologies, 11-17 October, 2020, Online, St. Petersburg, Russia](https://indico.cern.ch/event/839985/),[​pdf](https://indico.cern.ch/event/839985/contributions/3983599/)
+    *   [​NUCLEUS-2020 - LXX International conference on Nuclear physics and elementary particle physics. Nuclear physics technologies, 11-17 October, 2020, Online, St. Petersburg, Russia](https://indico.cern.ch/event/839985/),[​pdf](https://indico.cern.ch/event/839985/contributions/3983599/), Dong Jo Kim
 
 
 ### 2019
 
 *  “Linear and non-linear flow modes of charged and identified particles in Pb-Pb collisions with ALICE"
-    *   [​Quark Matter 2019 - the XXVIIIth International Conference on Ultra-relativistic Nucleus-Nucleus Collisions, 3-9 November, 2019, Wuhan, China](https://indico.cern.ch/event/792436/),[​pdf](https://indico.cern.ch/event/792436/contributions/3535660/)
+    *   [​Quark Matter 2019 - the XXVIIIth International Conference on Ultra-relativistic Nucleus-Nucleus Collisions, 3-9 November, 2019, Wuhan, China](https://indico.cern.ch/event/792436/),[​pdf](https://indico.cern.ch/event/792436/contributions/3535660/), Dong Jo Kim
 
 *   “Flow harmonic power spectrum with ALICE at LHC"
-    *   [​Quark Matter 2019 - the XXVIIIth International Conference on Ultra-relativistic Nucleus-Nucleus Collisions, 3-9 November, 2019, Wuhan, China](https://indico.cern.ch/event/792436/),[​pdf](https://indico.cern.ch/event/792436/contributions/3533877/)
+    *   [​Quark Matter 2019 - the XXVIIIth International Conference on Ultra-relativistic Nucleus-Nucleus Collisions, 3-9 November, 2019, Wuhan, China](https://indico.cern.ch/event/792436/),[​pdf](https://indico.cern.ch/event/792436/contributions/3533877/), Dong Jo Kim
 
 *   “1. Ridge in hard events in pp collisions 2. Jet parton shower in high multiplicity pPb collisions"
-    *   [​3rd International þing on QCD Challenges from pp to AA, 19-23 August 2019, Lund university, Sweden](https://indico.lucas.lu.se/event/1214/),[​pdf](https://indico.lucas.lu.se/event/1214/timetable/#20190819)
+    *   [​3rd International þing on QCD Challenges from pp to AA, 19-23 August 2019, Lund university, Sweden](https://indico.lucas.lu.se/event/1214/),[​pdf](https://indico.lucas.lu.se/event/1214/timetable/#20190819), Dong Jo Kim
 
 *   “Towards a deeper understanding of  heavy-ion collisions with flow harmonics in LHC"
-    *   [​XIV Workshop on Particle Correlations and Femtoscopy, 3-7 June, 2019, Dubna, Russian Federation](http://theor.jinr.ru/~wpcf2019/),[​pdf](http://theor.jinr.ru/~wpcf2019/files/talks/07/9.%20wpcf2019_djkim.pdf)
+    *   [​XIV Workshop on Particle Correlations and Femtoscopy, 3-7 June, 2019, Dubna, Russian Federation](http://theor.jinr.ru/~wpcf2019/),[​pdf](http://theor.jinr.ru/~wpcf2019/files/talks/07/9.%20wpcf2019_djkim.pdf), Dong Jo Kim
 
 *   “Towards a deeper understanding of  heavy-ion collisions with flow harmonics in LHC"
-    *   [​Heavy Ion Meeting 2019-05, 24 May, Seoul, Korea](http://him.phys.pusan.ac.kr),[​pdf]()
+    *   [​Heavy Ion Meeting 2019-05, 24 May, Seoul, Korea](http://him.phys.pusan.ac.kr),[​pdf](), Dong Jo Kim
 
 *   “Overview of heavy ion physics at ALICE"
-    *   [​XXV Cracow EPIPHANY Conference on Advances in Heavy Ion Physics, 8-11 Jan 2019, Cracow, Poland](http://epiphany.ifj.edu.pl/current/),[​pdf](https://indico.cern.ch/event/718723/contributions/3194895/attachments/1775741/2887081/alice_overview_djkim_Epiphany2019.pdf)
+    *   [​XXV Cracow EPIPHANY Conference on Advances in Heavy Ion Physics, 8-11 Jan 2019, Cracow, Poland](http://epiphany.ifj.edu.pl/current/),[​pdf](https://indico.cern.ch/event/718723/contributions/3194895/attachments/1775741/2887081/alice_overview_djkim_Epiphany2019.pdf), Dong Jo Kim
 
 ### 2018
 *   “Flow Analysis group overview"
-    *   [​CF workshop: Opportunity and Challenge with 2018 data, 24-25 September 2018 CERN](https://indico.cern.ch/event/757727/),[​pdf](https://indico.cern.ch/event/757727/contributions/3145728/attachments/1720892/2778246/flowpag_overview_20180924.pdf)
+    *   [​CF workshop: Opportunity and Challenge with 2018 data, 24-25 September 2018 CERN](https://indico.cern.ch/event/757727/),[​pdf](https://indico.cern.ch/event/757727/contributions/3145728/attachments/1720892/2778246/flowpag_overview_20180924.pdf), Dong Jo Kim
 
 *   “Probing Soft-Hard Interactions in Heavy Ion Collisions"
-    *   [​Hard Probes 2018: International Conference on Hard & Electromagnetic Probes of High-Energy Nuclear Collisions, 30 Sep to 5 Oct 2018](https://indico.cern.ch/event/634426/),[​pdf](https://indico.cern.ch/event/634426/contributions/3090390/)
+    *   [​Hard Probes 2018: International Conference on Hard & Electromagnetic Probes of High-Energy Nuclear Collisions, 30 Sep to 5 Oct 2018](https://indico.cern.ch/event/634426/),[​pdf](https://indico.cern.ch/event/634426/contributions/3090390/), Dong Jo Kim
 
 
 ### 2017
