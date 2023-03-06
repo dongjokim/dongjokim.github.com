@@ -13,7 +13,7 @@ Padova, Italy, [pdf](https://indico.cern.ch/event/1135616/contributions/5259000/
 *  "New Constraints of QCD Matter from Bayesian Parameter Estimation with LHC Data"
    * [15th Workshop on Particle Correlations and Femtoscopy](https://indico.frib.msu.edu/event/50/), 18-22 July 2022, ,Facility for Rare Isotope Beams, Michigan, USA, [talk](https://indico.frib.msu.edu/event/50/contributions/1190/), Dong Jo Kim, J. Parkkila, A. Önnerstad
 *  "New constraints for QCD matter from improved Bayesian parameter estimation in heavy-ion collisions at LHC”
-   *  Heavy ion meeting July 2022, July 1-2 2022, Yeosu, South Korea, talk, Dong Jo Kim 
+   *  Heavy ion meeting July 2022, July 1-2 2022, Yeosu, South Korea, [talk](pdf/HIM2022_BA.pdf), Dong Jo Kim 
 *  "New constraints of QCD matter from improved Bayesian parameter estimation with the latest LHC data"
    *   [Strangeness Quark Matter 2022](https://indico.cern.ch/event/1037821/), Jun 15 2022, Busan, South Korea, [talk](https://indico.cern.ch/event/1037821/contributions/4841765/), Dong Jo Kim, J. Parkkila, A. Önnerstad
 
