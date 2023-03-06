@@ -6,14 +6,16 @@ Padova, Italy, [pdf](https://indico.cern.ch/event/1135616/contributions/5259000/
    * [The 38th Winter Workshop on Nuclear Dynamics](https://indico.cern.ch/event/1196342/), 5–11 Feb 2023 Puerto Vallarta, Mexico, [pdf](https://indico.cern.ch/event/1196342/contributions/5228296/), Dong Jo Kim
    
 ### 2022
+*  "Collective flow measurements from the large to small systems in LHC"
+   * [CoE in Quark Matter, Scientific Advisory Board Meeting](https://www.jyu.fi/science/en/physics/research/highenergy/coe/sab2022_schedule_public-v1.pdf),8 Dec 2022, Jyväskylä, Finland,
 *  "Success and challenges of flow harmonic analysis in LHC collisions from large to small systems"
-   * 15th Quark Confinement and the Hadron Spectrum, August 1st - 6th, 2022, invited talk, Dong Jo Kim
+   * [15th Quark Confinement and the Hadron Spectrum](https://indico.uis.no/event/2/), August 1st - 6th 2022,Stavanger Norway, [talk](https://indico.uis.no/event/2/contributions/459/), Dong Jo Kim
 *  "New Constraints of QCD Matter from Bayesian Parameter Estimation with LHC Data"
-   * 15th Workshop on Particle Correlations and Femtoscopy, 18-22 July 2022, Dong Jo Kim, J. Parkkila, A. Önnerstad
+   * [15th Workshop on Particle Correlations and Femtoscopy](https://indico.frib.msu.edu/event/50/), 18-22 July 2022, ,Facility for Rare Isotope Beams, Michigan, USA, [talk](https://indico.frib.msu.edu/event/50/contributions/1190/), Dong Jo Kim, J. Parkkila, A. Önnerstad
 *  "New constraints for QCD matter from improved Bayesian parameter estimation in heavy-ion collisions at LHC”
-   *  Heavy ion meeting July 2022, July 1-2 2022, pdf, invited talk, Dong Jo Kim 
+   *  Heavy ion meeting July 2022, July 1-2 2022, Yeosu, South Korea, talk, Dong Jo Kim 
 *  "New constraints of QCD matter from improved Bayesian parameter estimation with the latest LHC data"
-   *   Strangeness Quark Matter 2022, Jun 15 2022, pdf, invited talk, Dong Jo Kim, J. Parkkila, A. Önnerstad
+   *   [Strangeness Quark Matter 2022](https://indico.cern.ch/event/1037821/), Jun 15 2022, Busan, South Korea, [talk](https://indico.cern.ch/event/1037821/contributions/4841765/), Dong Jo Kim, J. Parkkila, A. Önnerstad
 
 ### 2021
 
