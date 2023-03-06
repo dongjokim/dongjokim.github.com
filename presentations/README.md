@@ -1,6 +1,6 @@
 ### 2023
 *  "High-pt particle production, correlations, and observables sensitive to energy loss in small (and large) collision systems"
-   * [QCD challenges from pp to AA collisions](https://indico.cern.ch/event/1196342/), 13–17 Feb 2023,
+   * [QCD challenges from pp to AA collisions](https://indico.cern.ch/event/1135616/), 13–17 Feb 2023,
 Padova, Italy, [pdf](https://indico.cern.ch/event/1135616/contributions/5259000/), Dong Jo Kim
 *  "Improving Bayesian parameter estimation with the latest RHIC and LHC data including a new initial conditions model"
    * [The 38th Winter Workshop on Nuclear Dynamics](https://indico.cern.ch/event/1196342/), 5–11 Feb 2023 Puerto Vallarta, Mexico, [pdf](https://indico.cern.ch/event/1196342/contributions/5228296/), Dong Jo Kim
