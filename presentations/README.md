@@ -7,7 +7,7 @@ Padova, Italy, [pdf](https://indico.cern.ch/event/1135616/contributions/5259000/
    
 ### 2022
 *  "Collective flow measurements from the large to small systems in LHC"
-   * [CoE in Quark Matter, Scientific Advisory Board Meeting](https://www.jyu.fi/science/en/physics/research/highenergy/coe/sab2022_schedule_public-v1.pdf),8 Dec 2022, Jyväskylä, Finland, Dong Jo Kim
+   * [CoE in Quark Matter, Scientific Advisory Board Meeting](https://www.jyu.fi/science/en/physics/research/highenergy/coe/sab2022_schedule_public-v1.pdf), 8 Dec 2022, Jyväskylä, Finland, Dong Jo Kim
 *  "Success and challenges of flow harmonic analysis in LHC collisions from large to small systems"
    * [15th Quark Confinement and the Hadron Spectrum](https://indico.uis.no/event/2/), August 1st - 6th 2022,Stavanger Norway, [talk](https://indico.uis.no/event/2/contributions/459/), Dong Jo Kim
 *  "New Constraints of QCD Matter from Bayesian Parameter Estimation with LHC Data"
