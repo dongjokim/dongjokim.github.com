@@ -1,4 +1,14 @@
 ### 2023
+*  "Search for medium-induced jet quenching effects in high-multiplicity pp collisions with ALICE"
+    [Quark Matter 2023](https://indico.cern.ch/event/1139644/), 3–9 Sept 2023,
+Houston, Texas, USA, [pdf](https://indico.cern.ch/event/1139644/contributions/5491629/), Dong Jo Kim
+*  "Revisiting initial condition modeling with the Bayesian parameter estimation using the latest RHIC and LHC data"
+    [ALICE Physics Week 2023](https://indico.cern.ch/event/1250820/), 12–16 Jun 2023,
+Bucharest, Romania, [pdf](https://indico.cern.ch/event/1250820/contributions/5401544/), Dong Jo Kim
+*  "Revisiting Initial Condition Modeling of Heavy Ion Collisions with Bayesian Parameter Estimation"
+   * [Heavy Ion Meeting, Yonsei University], South Korea, 26-27 May 2023,  Dong Jo Kim
+*  "Energy loss and transport from small to large systems"
+   * [Seminar, Yonsei University], South Korea, 24-25 May 2023,  Dong Jo Kim
 *  "High-pt particle production, correlations, and observables sensitive to energy loss in small (and large) collision systems"
    * [QCD challenges from pp to AA collisions](https://indico.cern.ch/event/1135616/), 13–17 Feb 2023,
 Padova, Italy, [pdf](https://indico.cern.ch/event/1135616/contributions/5259000/), Dong Jo Kim
