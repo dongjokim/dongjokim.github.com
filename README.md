@@ -21,6 +21,7 @@ My work has been closely related to the experiments at the Brookhaven Heavy-ion 
  - <a href="https://twiki.cern.ch/twiki/bin/view/ALICE/JyflThesisFromOurGroup">PhD/Ms/Trainee</a>
 
 ## Hot news and issues on my research
+  - <a href="https://cerncourier.com/a/collectivity-in-small-systems-produced-at-the-lhc/">Collectivity in small systems at the LHC(Nov 2023)</a>
   - <a href="https://cerncourier.com/a/alice-tracks-new-territory/">ALICE tracks new territory(7 June 2021)</a>
   - <a href="https://cerncourier.com/a/going-with-the-flow/">Going with the flow(28 April 2021)</a>
   - <a href="https://cerncourier.com/a/alice-probes-extreme-electromagnetic-fields/">ALICE probes extreme electromagnetic fields</a>
