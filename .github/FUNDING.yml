@@ -1,0 +1,6 @@
+# Custom funding links
+custom:
+  - url: https://www.aka.fi
+    title: Support through the Finnish Academy (Suomen Akatemia)
+  - url: https://www.jyu.fi/en/research-groups/centre-of-excellence-in-quark-matter
+    title: Support through the University of Jyväskylä's Center of Excellence in Quark Matter 

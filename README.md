@@ -6,10 +6,20 @@ Welcome to my homepage! Here, you can explore my research in high-energy physics
 
 My work is closely related to experiments at the Brookhaven Heavy-ion facility (RHIC) and the Large Hadron Collider (LHC) at [CERN](http://www.cern.ch). I am particularly interested in studying the physics of strongly interacting matter at high temperatures and extreme energy densities, where the formation of a new phase of matter, the [Quark Gluon Plasma (QGP)](http://en.wikipedia.org/wiki/Quark-gluon_plasma), is expected.
 
-## Research Activities
-
+## Research Focus 🔬
 - **Center of Excellence in Quark Matter, Finland**  
   [Visit the research group](https://www.jyu.fi/en/research-groups/centre-of-excellence-in-quark-matter)
+- Flow Physics and Correlations in Heavy-Ion Collisions
+- Bayesian Analysis in Heavy-Ion Physics
+- Machine Learning Applications in Physics
+- International Research Collaboration
+
+### Key Research Achievements
+- Leading the Finnish participation in ALICE at CERN
+- Pioneer in flow measurements and Bayesian analysis
+- Comprehensive collective flow analysis development
+- Small system studies for onset of collectivity
+- Theory-experiment integration through Bayesian analysis
 
 ## Curriculum Vitae
 
@@ -23,7 +33,11 @@ My work is closely related to experiments at the Brookhaven Heavy-ion facility (
   [Access presentation files](presentations/)
 
 ## Publications
-
+Featured articles in CERN Courier:
+- ["Collectivity in small systems at the LHC"](https://cerncourier.com/a/collectivity-in-small-systems-produced-at-the-lhc/) (2023)
+- ["Going with the flow"](https://cerncourier.com/a/going-with-the-flow/) (2021)
+- ["Anisotropic flow in Xe-Xe collisions"](https://cerncourier.com/a/anisotropic-flow-in-xe-xe-collisions/) (2018)
+- ["ALICE explores shear viscosity in QCD matter"](https://cerncourier.com/alice-explores-shear-viscosity-in-qcd-matter/) (2016)
 - **InspireHEP**  
   [Search my publications](http://inspirehep.net/search?ln=en&ln=en&p=find+a+D.J+Kim&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0)
 - **2005 Publications**  
@@ -31,10 +45,25 @@ My work is closely related to experiments at the Brookhaven Heavy-ion facility (
 - **Selected and Full Publication List (as of Oct. 9th, 2022)**  
   [Download publication list](documents/PublicationList_djkim_20221009.pdf)
 
-## Students
+## Teaching & Mentoring 📚
+### Current Courses
+- Ultra-relativistic Heavy Ion Physics
 
-- **PhD/Ms/Trainee**  
-  [Explore student theses](https://twiki.cern.ch/twiki/bin/view/ALICE/JyflThesisFromOurGroup)
+### Student Supervision
+- Successfully supervised 5 M.Sc. and 6 Ph.D. students
+- Mentored 15+ summer interns at CERN
+- Regular supervisor for CERN/HIP Summer Internship Program
+
+## International Experience 🌍
+### CERN ALICE (2006-present)
+- Flow Physics Working Group Convenor
+- Regular presence at CERN (30% time commitment)
+- Leading Finnish Grid project within WLCG
+
+### BNL PHENIX (1999-present)
+- Detector calibration manager
+- Data reconstruction deputy
+- Extensive experience in detector construction and physics analysis
 
 ## Hot News and Issues on My Research
 
@@ -57,6 +86,7 @@ My work is closely related to experiments at the Brookhaven Heavy-ion facility (
   - It appeared that this calculation and some others are showing very similar effects as Kari et al. showed us the other day.
 - [Japanese Researcher Finds Massive Black Hole 12.7 Billion Light-years Away? 2006 June Press Release](http://asia.spaceref.com/news/viewpr.html?pid=20715)
 
-## Contact
-
-Feel free to reach out to me at [Dong.Jo.Kim@cern.ch](mailto:Dong.Jo.Kim@cern.ch).
+## Contact 📫
+- Email: djkim@jyu.fi
+- Phone: +358-050-313-7868
+- Location: Department of Physics, University of Jyväskylä, Finland
