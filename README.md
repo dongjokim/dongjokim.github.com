@@ -42,12 +42,6 @@ My work is closely related to experiments at the Brookhaven Heavy-ion facility (
 - Data reconstruction deputy
 - Extensive experience in detector construction and physics analysis
 
-## 💰 Funding & Sponsors
-- Academy of Finland (2020-2025)
-- European Research Council (ERC)
-- Center of Excellence in Quark Matter
-- University of Jyväskylä
-- CERN Research Programs
 
 ## 👨‍🏫 Teaching & Mentoring
 ### Current Activities
