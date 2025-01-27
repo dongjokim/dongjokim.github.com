@@ -1,5 +1,3 @@
-# DongJo Kim's Research and Projects 🎓
-
 Welcome to my homepage! Here, you can explore my research in high-energy physics, with a focus on Quark Gluon Plasma.
 
 ## 🔬 Research Overview
@@ -43,6 +41,13 @@ My work is closely related to experiments at the Brookhaven Heavy-ion facility (
 - Detector calibration manager
 - Data reconstruction deputy
 - Extensive experience in detector construction and physics analysis
+
+## 💰 Funding & Sponsors
+- Academy of Finland (2020-2025)
+- European Research Council (ERC)
+- Center of Excellence in Quark Matter
+- University of Jyväskylä
+- CERN Research Programs
 
 ## 👨‍🏫 Teaching & Mentoring
 ### Current Activities
