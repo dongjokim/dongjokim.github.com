@@ -1,60 +1,25 @@
-# Site Settings
-title: DongJo Kim's Research and Projects
-email: dongjokim@domain.com
+# Site settings
+title: DongJo Kim
+email: djkim@jyu.fi
 description: >-
-  Welcome to DongJo Kim's homepage. Explore my research in high-energy physics, focusing on Quark Gluon Plasma, and stay updated with my latest projects and findings.
+  High-energy and nuclear physics researcher focused on QGP, flow, and Bayesian
+  analysis. ALICE and PHENIX collaborations.
+baseurl: ""
+url: "https://dongjokim.github.io"
 
-baseurl: "" # the subpath of your site, e.g. /blog
-
-url: "https://dongjokim.github.io" # the base hostname & protocol for your site
-
-# Social media usernames
-twitter_username: jekyllrb
+# Social profiles
 github_username: dongjokim
-linkedin_username: dongjokim # Add LinkedIn if applicable
+linkedin_username: dongjokim
 
-# SEO settings
-google_analytics: UA-XXXXXXXX-X # Replace with your Google Analytics ID
+# SEO
 plugins:
-  - jekyll-seo-tag # Add SEO plugin for better search engine optimization
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
-theme: minima # Use a simple, clean theme
-paginate: 5 # Number of posts per page
+theme: minima
 
-# Collections
-collections:
-  episodes:
-    output: true
-  seasons:
-    output: true
-  characters:
-    output: true
-
-# Default settings for collections
-defaults:
-  - scope:
-      path: ""
-      type: "episodes"
-    values:
-      layout: "episode"
-  - scope:
-      path: ""
-      type: "characters"
-    values:
-      layout: "character"
-  - scope:
-      path: ""
-      type: "seasons"
-    values:
-      layout: "season"
-
-# Gems and plugins
-gems:
-  - octopress-paginate
-
-# Exclude files from the build
+# Exclusions
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -63,10 +28,3 @@ exclude:
   - vendor/cache
   - vendor/gems
   - vendor/ruby
-
-# Include additional files
-include:
-  - _pages # If you have a custom pages directory
-
-# Additional configuration
-permalink: /:categories/:year/:month/:day/:title/
