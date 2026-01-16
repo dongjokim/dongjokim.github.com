@@ -31,15 +31,15 @@ body {
 
 .page {
   margin: 0 auto;
-  padding: 20px 0 40px;
+  padding: 28px 0 56px;
 }
 
 .site-nav {
   display: flex;
-  gap: 18px;
+  gap: 20px;
   justify-content: flex-start;
   align-items: center;
-  padding: 12px 0 6px;
+  padding: 16px 0 10px;
   border-bottom: 1px solid var(--border);
   flex-wrap: wrap;
   font-size: 0.95rem;
@@ -58,25 +58,25 @@ body {
 .hero {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-  gap: 32px;
+  gap: 36px;
   align-items: center;
-  padding: 36px 0;
+  padding: 44px 0 36px;
 }
 
 .hero-title {
   font-size: 2.5rem;
-  margin: 0 0 10px;
+  margin: 0 0 12px;
 }
 
 .hero-subtitle {
   color: var(--muted);
   font-size: 1.1rem;
-  margin: 0 0 18px;
+  margin: 0 0 20px;
 }
 
 .hero-actions {
   display: flex;
-  gap: 12px;
+  gap: 14px;
   flex-wrap: wrap;
 }
 
@@ -108,7 +108,7 @@ body {
 .hero-card {
   background: var(--panel);
   border-radius: 18px;
-  padding: 22px;
+  padding: 26px;
   border: 1px solid var(--border);
   width: 100%;
 }
@@ -124,17 +124,17 @@ body {
   justify-content: center;
   font-size: 2rem;
   font-weight: 700;
-  margin-bottom: 14px;
+  margin-bottom: 18px;
 }
 
 .section {
-  padding: 28px 0 10px;
+  padding: 34px 0 18px;
   border-top: 1px solid var(--border);
 }
 
 .section h2 {
   font-size: 1.5rem;
-  margin: 0 0 12px;
+  margin: 0 0 16px;
 }
 
 .muted {
@@ -143,7 +143,7 @@ body {
 
 .grid {
   display: grid;
-  gap: 18px;
+  gap: 22px;
 }
 
 .grid.two {
@@ -153,17 +153,21 @@ body {
 .card {
   background: var(--panel);
   border-radius: 14px;
-  padding: 16px 18px;
+  padding: 18px 20px;
   border: 1px solid var(--border);
 }
 
 .list {
-  margin: 0;
-  padding-left: 18px;
+  margin: 10px 0 0;
+  padding-left: 20px;
+}
+
+.list li + li {
+  margin-top: 6px;
 }
 
 .timeline-item {
-  margin-bottom: 14px;
+  margin-bottom: 16px;
 }
 
 .timeline-item strong {
