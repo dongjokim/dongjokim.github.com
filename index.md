@@ -32,15 +32,19 @@ title: Home
       </div>
     </div>
     <div class="hero-card">
-      <img class="research-illustration" src="assets/images/cartoon_lhccollisions.png" alt="Cartoon of LHC collisions" />
-      <p>
-        I study strongly interacting matter at extreme temperatures and energy
-        densities, with emphasis on collective flow, correlations, and
-        theory-experiment integration through modern statistical tools.
-      </p>
-      <p class="muted">
-        Based in Jyväskylä, Finland · Regular presence at CERN (30% time)
-      </p>
+      <div class="hero-card-content">
+        <img class="research-illustration" src="assets/images/cartoon_lhccollisions.png" alt="Cartoon of LHC collisions" />
+        <div>
+          <p>
+            I study strongly interacting matter at extreme temperatures and energy
+            densities, with emphasis on collective flow, correlations, and
+            theory-experiment integration through modern statistical tools.
+          </p>
+          <p class="muted">
+            Based in Jyväskylä, Finland · Regular presence at CERN (30% time)
+          </p>
+        </div>
+      </div>
     </div>
   </section>
 
