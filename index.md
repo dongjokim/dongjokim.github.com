@@ -28,6 +28,7 @@ title: Home
       <div class="hero-actions">
         <a class="button primary" href="documents/djkim_cv.pdf">Download CV</a>
         <a class="button" href="presentations/">Presentations</a>
+        <a class="button" href="https://scholar.google.com/citations?user=waNfRX0AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
         <a class="button" href="mailto:djkim@jyu.fi">Email</a>
       </div>
     </div>
@@ -52,27 +53,26 @@ title: Home
     <h2>Research Focus</h2>
     <div class="grid two">
       <div class="card">
-        <strong>Center of Excellence in Quark Matter</strong>
+        <strong>Research Focus</strong>
         <p class="muted">
-          Leading Finnish participation in ALICE at CERN and contributing to
-          collaborative efforts at RHIC and the LHC.
+          My work is closely related to experiments at RHIC and the LHC, studying strongly
+          interacting matter at high temperatures and extreme energy densities, particularly
+          the Quark Gluon Plasma (QGP).
         </p>
-        <a href="https://www.jyu.fi/en/research-groups/centre-of-excellence-in-quark-matter">
-          Visit the research group
-        </a>
-      </div>
-      <div class="card">
-        <strong>Key Topics</strong>
+        <p>
+          Center of Excellence in Quark Matter:
+          <a href="https://www.jyu.fi/en/research-groups/centre-of-excellence-in-quark-matter">research group</a>
+        </p>
         <ul class="list">
           <li>Flow physics and correlations in heavy-ion collisions</li>
           <li>Bayesian analysis in heavy-ion physics</li>
           <li>Machine learning applications in physics</li>
         </ul>
-      </div>
-    </div>
-    <div class="grid two" style="margin-top: 18px;">
-      <div class="card">
-        <strong>Key Achievements</strong>
+        <p style="margin-top: 12px;">
+          Learn more about <a href="http://www.cern.ch">CERN</a> and
+          <a href="http://en.wikipedia.org/wiki/Quark-gluon_plasma">QGP</a>.
+        </p>
+        <p class="muted" style="margin-top: 12px; margin-bottom: 8px;"><strong>Selected highlights</strong></p>
         <ul class="list">
           <li>Leading the Finnish participation in ALICE at CERN</li>
           <li>Pioneer in flow measurements and Bayesian analysis</li>
@@ -82,18 +82,15 @@ title: Home
         </ul>
       </div>
       <div class="card">
-        <strong>Research Overview</strong>
+        <strong>Project: Daily HEP & Heavy-Ion Research Updates</strong>
         <p class="muted">
-          My work is closely related to experiments at RHIC and the LHC,
-          studying strongly interacting matter at high temperatures and extreme
-          energy densities, particularly the Quark Gluon Plasma (QGP).
+          Automated daily arXiv/news aggregation for QGP, heavy-ion collisions, flow,
+          jet quenching, hydrodynamics, Bayesian analysis, and kinetic theory.
         </p>
-        <p>
-          Learn more about
-          <a href="http://www.cern.ch">CERN</a>
-          and
-          <a href="http://en.wikipedia.org/wiki/Quark-gluon_plasma">QGP</a>.
-        </p>
+        <p class="muted">Developed by DongJo Kim.</p>
+        <a href="https://daily-science-news.vercel.app" target="_blank" rel="noopener noreferrer">
+          Open the research portal
+        </a>
       </div>
     </div>
   </section>
@@ -147,6 +144,11 @@ title: Home
           <li>
             <a href="http://inspirehep.net/search?ln=en&ln=en&p=find+a+D.J+Kim&of=hb&action_search=Search&sf=&so=d&rm=&rg=25&sc=0">
               InspireHEP Profile
+            </a>
+          </li>
+          <li>
+            <a href="https://scholar.google.com/citations?user=waNfRX0AAAAJ" target="_blank" rel="noopener noreferrer">
+              Google Scholar
             </a>
           </li>
           <li>
@@ -215,11 +217,22 @@ title: Home
         </ul>
       </div>
       <div class="card">
-        <strong>Travel & Logistics</strong>
+        <strong>Travel & Conferences</strong>
+        <p class="muted" style="margin-top: 10px;">
+          A personal map of conference and collaboration travel.
+        </p>
+        <div class="map-embed" aria-label="Conference travel map">
+          <iframe
+            title="Conference travel map"
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            src="https://www.google.com/maps/d/embed?mid=1v7H3h0oxobY8pr-5-ZOZAL2b_Ec&ehbc=2E312F">
+          </iframe>
+        </div>
         <ul class="list">
           <li>
-            <a href="https://drive.google.com/open?id=1v7H3h0oxobY8pr-5-ZOZAL2b_Ec&usp=sharing">
-              Travel Information
+            <a href="https://www.google.com/maps/d/edit?mid=1v7H3h0oxobY8pr-5-ZOZAL2b_Ec&ll=0.6760375701233627%2C0&z=2">
+              Open the full travel map
             </a>
           </li>
         </ul>
@@ -232,6 +245,7 @@ title: Home
     <div class="card">
       <ul class="list">
         <li>Email: <a href="mailto:djkim@jyu.fi">djkim@jyu.fi</a></li>
+        <li>Google Scholar: <a href="https://scholar.google.com/citations?user=waNfRX0AAAAJ" target="_blank" rel="noopener noreferrer">waNfRX0AAAAJ</a></li>
         <li>Phone: +358-050-313-7868</li>
         <li>Location: Department of Physics, University of Jyväskylä, Finland</li>
       </ul>
