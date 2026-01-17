@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="page">
-  <nav class="site-nav">
+  <nav class="top-nav">
     <a href="#about">About</a>
     <a href="#research">Research</a>
     <a href="#publications">Publications</a>
