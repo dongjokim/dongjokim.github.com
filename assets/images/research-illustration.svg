@@ -1,0 +1,85 @@
+<svg width="900" height="480" viewBox="0 0 900 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(360 240) rotate(90) scale(160 260)">
+      <stop stop-color="#FFB347" stop-opacity="0.95"/>
+      <stop offset="0.55" stop-color="#FF6B6B" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#2F6F9F" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nucleusLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(250 240) rotate(90) scale(110)">
+      <stop stop-color="#F1F5F9"/>
+      <stop offset="1" stop-color="#CBD2D9"/>
+    </radialGradient>
+    <radialGradient id="nucleusRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(470 240) rotate(90) scale(110)">
+      <stop stop-color="#F1F5F9"/>
+      <stop offset="1" stop-color="#CBD2D9"/>
+    </radialGradient>
+    <linearGradient id="track" x1="180" y1="120" x2="520" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8FC1E3"/>
+      <stop offset="1" stop-color="#2F6F9F"/>
+    </linearGradient>
+    <linearGradient id="track2" x1="180" y1="320" x2="540" y2="140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B2F5EA"/>
+      <stop offset="1" stop-color="#38B2AC"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="480" rx="28" fill="#F5F7FA"/>
+  <circle cx="360" cy="240" r="160" fill="url(#glow)"/>
+
+  <!-- Left Pb nucleus -->
+  <circle cx="250" cy="240" r="110" fill="url(#nucleusLeft)" stroke="#9FB3C8" stroke-width="2"/>
+  <circle cx="210" cy="200" r="10" fill="#9FB3C8"/>
+  <circle cx="230" cy="260" r="8" fill="#9FB3C8"/>
+  <circle cx="270" cy="210" r="9" fill="#9FB3C8"/>
+  <circle cx="280" cy="270" r="10" fill="#9FB3C8"/>
+  <circle cx="240" cy="230" r="7" fill="#9FB3C8"/>
+  <circle cx="265" cy="245" r="7" fill="#9FB3C8"/>
+  <circle cx="225" cy="225" r="6" fill="#9FB3C8"/>
+
+  <!-- Right Pb nucleus -->
+  <circle cx="470" cy="240" r="110" fill="url(#nucleusRight)" stroke="#9FB3C8" stroke-width="2"/>
+  <circle cx="440" cy="210" r="9" fill="#9FB3C8"/>
+  <circle cx="500" cy="220" r="8" fill="#9FB3C8"/>
+  <circle cx="460" cy="260" r="10" fill="#9FB3C8"/>
+  <circle cx="510" cy="270" r="9" fill="#9FB3C8"/>
+  <circle cx="475" cy="235" r="7" fill="#9FB3C8"/>
+  <circle cx="485" cy="255" r="6" fill="#9FB3C8"/>
+  <circle cx="445" cy="245" r="6" fill="#9FB3C8"/>
+
+  <!-- Overlap region -->
+  <circle cx="360" cy="240" r="70" fill="#FF6B6B" fill-opacity="0.35"/>
+  <circle cx="360" cy="240" r="40" fill="#FFB347" fill-opacity="0.55"/>
+
+  <!-- Particle tracks -->
+  <path d="M120 120 C190 160 240 180 360 240" stroke="url(#track)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M120 350 C200 300 250 280 360 240" stroke="url(#track2)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M360 240 C420 210 520 160 620 120" stroke="url(#track)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M360 240 C440 270 540 310 640 360" stroke="url(#track2)" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Analysis panel -->
+  <rect x="620" y="70" width="230" height="260" rx="20" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2"/>
+  <text x="646" y="110" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#52606D">
+    Pb-Pb Collision
+  </text>
+  <text x="646" y="138" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#7B8794">
+    QGP formation
+  </text>
+  <text x="646" y="162" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#7B8794">
+    Elliptic flow (v2)
+  </text>
+  <text x="646" y="186" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#7B8794">
+    Higher harmonics
+  </text>
+  <text x="646" y="210" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#7B8794">
+    Correlations & jets
+  </text>
+  <text x="646" y="234" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#7B8794">
+    Bayesian constraints
+  </text>
+  <text x="646" y="258" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#7B8794">
+    Transport coefficients
+  </text>
+
+  <path d="M560 220 C590 220 600 220 620 220" stroke="#2F6F9F" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="626" cy="220" r="5" fill="#2F6F9F"/>
+</svg>

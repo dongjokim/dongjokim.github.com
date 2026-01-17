@@ -32,7 +32,7 @@ title: Home
       </div>
     </div>
     <div class="hero-card">
-      <div class="avatar">DJ</div>
+      <img class="research-illustration" src="assets/images/cartoon_lhccollisions.png" alt="Cartoon of LHC collisions" />
       <p>
         I study strongly interacting matter at extreme temperatures and energy
         densities, with emphasis on collective flow, correlations, and
